@@ -1,6 +1,3 @@
-## Watch me do the lab HERE
-https://www.loom.com/share/0c421230e9394dbeb698c7a4f2fd23ea
-
 
 # Active Directory Domain Services Configuration Setup
 
