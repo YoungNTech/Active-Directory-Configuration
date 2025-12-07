@@ -3,13 +3,6 @@
 ## Overview
 This lab shows how to install Active Directory Domain Services (AD DS) and promote a Windows Server EC2 instance to a Domain Controller.
 
-Estimated time: 20–30 minutes  
-Recommendation: Take a snapshot or create an AMI before major changes.
-
-## Prerequisites
-- A running Windows Server EC2 instance with Administrator access (RDP)
-- Security group allowing RDP (TCP 3389) from your IP
-- Administrative credentials for the Windows Server
 
 ---
 
